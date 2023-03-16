@@ -13,6 +13,7 @@ while True:
         break
     else:
         print('错误秘钥')
+        break
 while True:
     if op == office:
         print('正在检测，你需要等待'+str(oppuls[0])+'秒'+'才能检测完成')
@@ -20,3 +21,5 @@ while True:
         ip = socket.gethostbyname(hostname)
         sleep(oppuls[0])
         print('你的IP是'+str(ip))
+    else:
+        break
