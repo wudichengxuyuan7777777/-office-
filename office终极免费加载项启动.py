@@ -3,9 +3,9 @@ import socket
 from time import sleep
 import random
 
-office = 'MC60H-DWD5-H80U9-6V85M-8280D'
+office = 'MC60H-DWHD5-H80U9-6V85M-8280D'
 op = input('请输入秘钥')
-up = random.randint(1, 10000)
+up = random.randint(1, 60)
 oppuls = [up]
 while True:
     if op == office:
@@ -21,5 +21,7 @@ while True:
         ip = socket.gethostbyname(hostname)
         sleep(oppuls[0])
         print('你的IP是'+str(ip))
+        sleep(60)
+        break
     else:
         break
