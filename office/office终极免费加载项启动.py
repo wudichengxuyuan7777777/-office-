@@ -11,7 +11,7 @@ while True:
         print('正确秘钥')
         break
     else:
-        print('错误秘钥231231231231')
+        print('错误秘钥')
         break
 while True:
     if op == oppuls[1]:
