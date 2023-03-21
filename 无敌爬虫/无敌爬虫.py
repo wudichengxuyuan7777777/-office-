@@ -4,6 +4,9 @@ import os
 import office
 from time import sleep
 
+
+# 介绍
+print('针对某种漏洞制作的程序，请勿用于非法行为。')
 # 代码区
 # 存储数据的无敌列表
 wudi_list = []
