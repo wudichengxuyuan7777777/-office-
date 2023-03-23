@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fd616d-d3fc-4af8-a287-365a4aa44758" name="变更" comment="wudi" />
+    <list default="true" id="96fd616d-d3fc-4af8-a287-365a4aa44758" name="变更" comment="wudi">
+      <change beforePath="$PROJECT_DIR$/../wudi/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/.idea/无敌网站.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/wudi/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/无敌爬虫/无敌爬虫.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/无敌网站/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/无敌网站/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/无敌网站/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/无敌网站/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wudi/无敌网站/wsgi.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679569295204</updated>
-      <workItem from="1679569302946" duration="652000" />
+      <workItem from="1679569302946" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="wudi">
       <created>1679569600859</created>
@@ -113,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679569671658</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="wudi">
+      <created>1679569994842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679569994842</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wudi">
+      <created>1679570047521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679570047521</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
