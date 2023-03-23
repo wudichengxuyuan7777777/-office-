@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
-import os
-import sys
-from time import sleep
-
-
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'wudiwangzhan.settings')
@@ -21,5 +16,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-while True:
-    sleep(60)
